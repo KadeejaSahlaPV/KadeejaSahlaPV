@@ -19,6 +19,6 @@ Hi! My name is Kadeeja Sahla PV 😄
 
 <div id="badges">
   <a href="https://sahla.vercel.app/">
-    Portfolio
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgUt1IAZpiM-28b3pCQWG1IXH7gK4a3-Hy-w&s" alt="Portfolio"/>
   </a>
 </div>
